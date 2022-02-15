@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: adb4850e-6c33-4ec0-1d95-a5836eb89593
 ---
@@ -32,20 +34,6 @@ None
 ### Requirements Satisfied
 
 None
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A small classroom with five rows of tables, each seating four.]({{< resource_file 4e7bd285-60b7-fa89-e6aa-b0cbf952528d >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    This course was taught in a small classroom equipped with a chalkboard and a projector.
-    
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
