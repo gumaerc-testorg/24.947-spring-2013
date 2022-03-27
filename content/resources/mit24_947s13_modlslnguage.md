@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 56dc7ff3-03c2-c387-a43f-09270b742c7d
 resourcetype: Document
 title: Models and Causation of Child Language Disorders
 uid: 511b1ec5-8257-bacc-13f2-a51b858eb6ac

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 56dc7ff3-03c2-c387-a43f-09270b742c7d
 resourcetype: Document
 title: Autism Spectrum Disorders
 uid: d78dd5ed-3cfd-712e-f6f9-e9b7d8e6807d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 56dc7ff3-03c2-c387-a43f-09270b742c7d
 resourcetype: Document
 title: Introduction to Autism Spectrum Disorders
 uid: 90e4e145-359f-8044-b6a8-67c6f85147aa
