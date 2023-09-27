@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  goals and requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -50,10 +52,10 @@ I would like to have the class, as much as possible, be conducted as a seminar. 
 
 ### Assignments
 
-Class assignments are detailed in the [Assignments]({{< baseurl >}}/pages/assignments) section.
+Class assignments are detailed in the {{% resource_link 26f3b642-158e-2cad-fb68-66f4b9bd4f35 "Assignments" %}} section.
 
 ### Readings
 
 For each class, one student will prepare a summary of the day's readings. In addition, where appropriate, the student will prepare a proposal for an experimental study related to the topic at hand. During class, we will discuss the readings and the proposed experiment. This discussion will be co-led by me along with the student moderator.
 
-Class readings are detailed in the [Readings]({{< baseurl >}}/pages/readings) section.
+Class readings are detailed in the {{% resource_link 4c0faa0a-8954-28fa-cbd3-382579864a74 "Readings" %}} section.
