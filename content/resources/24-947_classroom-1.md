@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of the classroom used for the course.
-file: /courses/24-947-language-disorders-in-children-spring-2013/4e7bd28560b7fa89e6aab0cbf952528d_24-947_classroom-1.jpg
+file: /ol-ocw-studio-app/courses/24-947-language-disorders-in-children-spring-2013/4e7bd28560b7fa89e6aab0cbf952528d_24-947_classroom-1.jpg
 file_size: 47370
 file_type: image/jpeg
 image_metadata:

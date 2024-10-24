@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on models and causation of child language disorders.
-file: /courses/24-947-language-disorders-in-children-spring-2013/511b1ec58257bacc13f2a51b858eb6ac_MIT24_947S13_ModlsLnguage.pdf
+file: /ol-ocw-studio-app/courses/24-947-language-disorders-in-children-spring-2013/511b1ec58257bacc13f2a51b858eb6ac_MIT24_947S13_ModlsLnguage.pdf
 file_size: 553804
 file_type: application/pdf
 learning_resource_types:
