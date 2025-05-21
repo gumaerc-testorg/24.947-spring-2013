@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image showing the number of students enrolled in the course.
-file: /ol-ocw-studio-app/courses/24-947-language-disorders-in-children-spring-2013/996580fd7b830b4cbbfbd9ba8287fb78_24-947_stat-students.png
+file: /courses/24-947-language-disorders-in-children-spring-2013/996580fd7b830b4cbbfbd9ba8287fb78_24-947_stat-students.png
 file_size: 2955
 file_type: image/png
 image_metadata:
