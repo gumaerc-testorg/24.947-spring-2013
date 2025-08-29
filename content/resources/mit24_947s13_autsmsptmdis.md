@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on autism spectrum disorders.
-file: /courses/24-947-language-disorders-in-children-spring-2013/d78dd5ed3cfd712ef6f9e9b7d8e6807d_MIT24_947S13_AutsmSptmDis.pdf
+file: /ol-ocw-studio-app/courses/24-947-language-disorders-in-children-spring-2013/d78dd5ed3cfd712ef6f9e9b7d8e6807d_MIT24_947S13_AutsmSptmDis.pdf
 file_size: 772543
 file_type: application/pdf
 learning_resource_types:
